@@ -1,0 +1,6 @@
+name: webgl_book
+version: 0.0.1
+description: >
+  Testing WebGL with Dart
+dependencies:
+  browser: '>=0.10.0'
